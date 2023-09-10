@@ -2,1418 +2,1065 @@
 <tv generator-info-name="UK EPG" generator-info-url="ukEPG">
   <channel id="BBC One London">
     <display-name lang="en">BBC One London</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/74.png" />
   </channel>
   <channel id="BBC Two England">
     <display-name lang="en">BBC Two England</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/89.png" />
   </channel>
   <channel id="ITV London">
     <display-name lang="en">ITV London</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/172.png" />
   </channel>
   <channel id="Channel 4">
     <display-name lang="en">Channel 4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/121.png" />
   </channel>
   <channel id="S4C">
     <display-name lang="en">S4C</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/234.png" />
   </channel>
   <channel id="Channel 5">
     <display-name lang="en">Channel 5</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/148.png" />
   </channel>
   <channel id="ITV2">
     <display-name lang="en">ITV2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/180.png" />
   </channel>
   <channel id="London Live">
     <display-name lang="en">London Live</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/904.png" />
   </channel>
   <channel id="ITV3">
     <display-name lang="en">ITV3</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/360.png" />
   </channel>
   <channel id="Sky Arts">
     <display-name lang="en">Sky Arts</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/384.png" />
   </channel>
   <channel id="Quest">
     <display-name lang="en">Quest</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/559.png" />
   </channel>
   <channel id="E4">
     <display-name lang="en">E4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/139.png" />
   </channel>
   <channel id="Channel 4 +1">
     <display-name lang="en">Channel 4 +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/428.png" />
   </channel>
   <channel id="QVC">
     <display-name lang="en">QVC</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/223.png" />
   </channel>
   <channel id="Really">
     <display-name lang="en">Really</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/422.png" />
   </channel>
   <channel id="More4">
     <display-name lang="en">More4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/361.png" />
   </channel>
   <channel id="Dave">
     <display-name lang="en">Dave</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/432.png" />
   </channel>
   <channel id="Drama">
     <display-name lang="en">Drama</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/871.png" />
   </channel>
   <channel id="5USA">
     <display-name lang="en">5USA</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/375.png" />
   </channel>
   <channel id="Ideal World Freeview">
     <display-name lang="en">Ideal World Freeview</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/434.png" />
   </channel>
   <channel id="Create and Craft">
     <display-name lang="en">Create and Craft</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/586.png" />
   </channel>
   <channel id="Dave ja vu">
     <display-name lang="en">Dave ja vu</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/455.png" />
   </channel>
   <channel id="ITV4">
     <display-name lang="en">ITV4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/367.png" />
   </channel>
   <channel id="Yesterday">
     <display-name lang="en">Yesterday</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/320.png" />
   </channel>
   <channel id="ITVBe">
     <display-name lang="en">ITVBe</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/926.png" />
   </channel>
   <channel id="ITV2+1">
     <display-name lang="en">ITV2+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/376.png" />
   </channel>
   <channel id="E4 +1">
     <display-name lang="en">E4 +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/371.png" />
   </channel>
   <channel id="4Music">
     <display-name lang="en">4Music</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/506.png" />
   </channel>
   <channel id="5STAR">
     <display-name lang="en">5STAR</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/374.png" />
   </channel>
   <channel id="5Action">
     <display-name lang="en">5Action</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1225.png" />
   </channel>
   <channel id="GREAT! movies">
     <display-name lang="en">GREAT! movies</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/742.png" />
   </channel>
   <channel id="ITV London+1">
     <display-name lang="en">ITV London+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/697.png" />
   </channel>
   <channel id="Pick">
     <display-name lang="en">Pick</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/369.png" />
   </channel>
   <channel id="QVC Beauty">
     <display-name lang="en">QVC Beauty</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1509.png" />
   </channel>
   <channel id="QVC Style">
     <display-name lang="en">QVC Style</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1510.png" />
   </channel>
   <channel id="DMAX">
     <display-name lang="en">DMAX</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/454.png" />
   </channel>
   <channel id="Quest Red">
     <display-name lang="en">Quest Red</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1014.png" />
   </channel>
   <channel id="CBS Justice">
     <display-name lang="en">CBS Justice</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/498.png" />
   </channel>
   <channel id="GREAT! movies action">
     <display-name lang="en">GREAT! movies action</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/500.png" />
   </channel>
   <channel id="Food Network">
     <display-name lang="en">Food Network</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/596.png" />
   </channel>
   <channel id="HGTV">
     <display-name lang="en">HGTV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/322.png" />
   </channel>
   <channel id="Challenge">
     <display-name lang="en">Challenge</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/120.png" />
   </channel>
   <channel id="GREAT! tv">
     <display-name lang="en">GREAT! tv</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/633.png" />
   </channel>
   <channel id="GREAT! movies classic">
     <display-name lang="en">GREAT! movies classic</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/993.png" />
   </channel>
   <channel id="RTÉ2">
     <display-name lang="en">RTÉ2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/363.png" />
   </channel>
   <channel id="5SELECT">
     <display-name lang="en">5SELECT</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/571.png" />
   </channel>
   <channel id="Smithsonian">
     <display-name lang="en">Smithsonian</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1243.png" />
   </channel>
   <channel id="ITVBe+1">
     <display-name lang="en">ITVBe+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/957.png" />
   </channel>
   <channel id="ITV4+1">
     <display-name lang="en">ITV4+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/530.png" />
   </channel>
   <channel id="GREAT! movies +1">
     <display-name lang="en">GREAT! movies +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/743.png" />
   </channel>
   <channel id="GREAT! tv +1">
     <display-name lang="en">GREAT! tv +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1274.png" />
   </channel>
   <channel id="GREAT! movies classic +1">
     <display-name lang="en">GREAT! movies classic +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1688.png" />
   </channel>
   <channel id="Blaze">
     <display-name lang="en">Blaze</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1013.png" />
   </channel>
   <channel id="FreeSports">
     <display-name lang="en">FreeSports</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1184.png" />
   </channel>
   <channel id="CBS Reality">
     <display-name lang="en">CBS Reality</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/385.png" />
   </channel>
   <channel id="CBS Drama">
     <display-name lang="en">CBS Drama</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/493.png" />
   </channel>
   <channel id="Horror Channel">
     <display-name lang="en">Horror Channel</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/425.png" />
   </channel>
   <channel id="Quest +1">
     <display-name lang="en">Quest +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/594.png" />
   </channel>
   <channel id="Quest Red +1">
     <display-name lang="en">Quest Red +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1231.png" />
   </channel>
   <channel id="Drama +1">
     <display-name lang="en">Drama +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1289.png" />
   </channel>
   <channel id="Yesterday +1">
     <display-name lang="en">Yesterday +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/423.png" />
   </channel>
   <channel id="NOW 70s">
     <display-name lang="en">NOW 70s</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1251.png" />
   </channel>
   <channel id="Talking Pictures TV">
     <display-name lang="en">Talking Pictures TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/979.png" />
   </channel>
   <channel id="Together TV">
     <display-name lang="en">Together TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/280.png" />
   </channel>
   <channel id="Pick +1">
     <display-name lang="en">Pick +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/667.png" />
   </channel>
   <channel id="PBS America">
     <display-name lang="en">PBS America</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/751.png" />
   </channel>
   <channel id="Forces TV">
     <display-name lang="en">Forces TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/913.png" />
   </channel>
   <channel id="BBC One HD">
     <display-name lang="en">BBC One HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/683.png" />
   </channel>
   <channel id="BBC Two HD">
     <display-name lang="en">BBC Two HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/387.png" />
   </channel>
   <channel id="ITV HD London">
     <display-name lang="en">ITV HD London</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/642.png" />
   </channel>
   <channel id="Channel 4 HD">
     <display-name lang="en">Channel 4 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/476.png" />
   </channel>
   <channel id="Channel 5 HD">
     <display-name lang="en">Channel 5 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/657.png" />
   </channel>
   <channel id="BBC News Channel HD">
     <display-name lang="en">BBC News Channel HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/894.png" />
   </channel>
   <channel id="RT HD">
     <display-name lang="en">RT HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/853.png" />
   </channel>
   <channel id="Quest HD">
     <display-name lang="en">Quest HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1230.png" />
   </channel>
   <channel id="Birmingham TV">
     <display-name lang="en">Birmingham TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1154.png" />
   </channel>
   <channel id="Bristol TV">
     <display-name lang="en">Bristol TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1157.png" />
   </channel>
   <channel id="Cardiff TV">
     <display-name lang="en">Cardiff TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1171.png" />
   </channel>
   <channel id="Leeds TV">
     <display-name lang="en">Leeds TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1210.png" />
   </channel>
   <channel id="Liverpool TV">
     <display-name lang="en">Liverpool TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1212.png" />
   </channel>
   <channel id="Tyne &amp; Wear TV">
     <display-name lang="en">Tyne &amp; Wear TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1255.png" />
   </channel>
   <channel id="CBBC">
     <display-name lang="en">CBBC</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/118.png" />
   </channel>
   <channel id="CBeebies">
     <display-name lang="en">CBeebies</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/119.png" />
   </channel>
   <channel id="CITV">
     <display-name lang="en">CITV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/382.png" />
   </channel>
   <channel id="CBBC HD">
     <display-name lang="en">CBBC HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/895.png" />
   </channel>
   <channel id="CBeebies HD">
     <display-name lang="en">CBeebies HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/896.png" />
   </channel>
   <channel id="Pop">
     <display-name lang="en">Pop</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/468.png" />
   </channel>
   <channel id="Tiny Pop">
     <display-name lang="en">Tiny Pop</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1250.png" />
   </channel>
   <channel id="BBC News Channel">
     <display-name lang="en">BBC News Channel</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/66.png" />
   </channel>
   <channel id="BBC Parliament">
     <display-name lang="en">BBC Parliament</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/67.png" />
   </channel>
   <channel id="Sky News">
     <display-name lang="en">Sky News</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/257.png" />
   </channel>
   <channel id="Al Jazeera English HD">
     <display-name lang="en">Al Jazeera English HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/899.png" />
   </channel>
   <channel id="BBC Red Button 1">
     <display-name lang="en">BBC Red Button 1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/636.png" />
   </channel>
   <channel id="RT">
     <display-name lang="en">RT</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/707.png" />
   </channel>
   <channel id="Sky Showcase HD">
     <display-name lang="en">Sky Showcase HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/478.png" />
   </channel>
   <channel id="Sky Witness HD">
     <display-name lang="en">Sky Witness HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/592.png" />
   </channel>
   <channel id="Sky Atlantic HD">
     <display-name lang="en">Sky Atlantic HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/703.png" />
   </channel>
   <channel id="W">
     <display-name lang="en">W</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/511.png" />
   </channel>
   <channel id="GOLD">
     <display-name lang="en">GOLD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/517.png" />
   </channel>
   <channel id="Comedy Central">
     <display-name lang="en">Comedy Central</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/214.png" />
   </channel>
   <channel id="NOW Sky Max">
     <display-name lang="en">NOW Sky Max</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1660.png" />
   </channel>
   <channel id="Sky Comedy HD">
     <display-name lang="en">Sky Comedy HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1319.png" />
   </channel>
   <channel id="NOW Sky Max HD">
     <display-name lang="en">NOW Sky Max HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1661.png" />
   </channel>
   <channel id="Sky Documentaries">
     <display-name lang="en">Sky Documentaries</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1369.png" />
   </channel>
   <channel id="Sky Arts HD">
     <display-name lang="en">Sky Arts HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/484.png" />
   </channel>
   <channel id="Sky Crime HD">
     <display-name lang="en">Sky Crime HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1320.png" />
   </channel>
   <channel id="Sky Nature HD">
     <display-name lang="en">Sky Nature HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1372.png" />
   </channel>
   <channel id="MTV HD">
     <display-name lang="en">MTV HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/739.png" />
   </channel>
   <channel id="Comedy Central Extra">
     <display-name lang="en">Comedy Central Extra</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/215.png" />
   </channel>
   <channel id="National Geographic Channel">
     <display-name lang="en">National Geographic Channel</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/205.png" />
   </channel>
   <channel id="TLC HD">
     <display-name lang="en">TLC HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/866.png" />
   </channel>
   <channel id="More4 HD">
     <display-name lang="en">More4 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/859.png" />
   </channel>
   <channel id="Sky Sports Mix HD">
     <display-name lang="en">Sky Sports Mix HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1107.png" />
   </channel>
   <channel id="E! HD">
     <display-name lang="en">E! HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/831.png" />
   </channel>
   <channel id="Syfy HD">
     <display-name lang="en">Syfy HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/545.png" />
   </channel>
   <channel id="Investigation Discovery">
     <display-name lang="en">Investigation Discovery</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/535.png" />
   </channel>
   <channel id="Crime + Investigation HD">
     <display-name lang="en">Crime + Investigation HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/556.png" />
   </channel>
   <channel id="Discovery Turbo">
     <display-name lang="en">Discovery Turbo</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/386.png" />
   </channel>
   <channel id="Animal Planet">
     <display-name lang="en">Animal Planet</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/58.png" />
   </channel>
   <channel id="National Geographic WILD HD">
     <display-name lang="en">National Geographic WILD HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/557.png" />
   </channel>
   <channel id="Eden">
     <display-name lang="en">Eden</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/540.png" />
   </channel>
   <channel id="Discovery Science">
     <display-name lang="en">Discovery Science</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/134.png" />
   </channel>
   <channel id="Sky Replay">
     <display-name lang="en">Sky Replay</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/259.png" />
   </channel>
   <channel id="BBC Alba">
     <display-name lang="en">BBC Alba</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/508.png" />
   </channel>
   <channel id="Discovery History">
     <display-name lang="en">Discovery History</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/129.png" />
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="en">Smithsonian HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1244.png" />
   </channel>
   <channel id="Travelxp">
     <display-name lang="en">Travelxp</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1252.png" />
   </channel>
   <channel id="Ayozat TV">
     <display-name lang="en">Ayozat TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1271.png" />
   </channel>
   <channel id="Channel 5 +1">
     <display-name lang="en">Channel 5 +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/729.png" />
   </channel>
   <channel id="Sky Showcase">
     <display-name lang="en">Sky Showcase</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/258.png" />
   </channel>
   <channel id="Sky Showcase +1">
     <display-name lang="en">Sky Showcase +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/837.png" />
   </channel>
   <channel id="Sky Witness +1">
     <display-name lang="en">Sky Witness +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/184.png" />
   </channel>
   <channel id="Sky Atlantic">
     <display-name lang="en">Sky Atlantic</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/704.png" />
   </channel>
   <channel id="Sky Atlantic +1">
     <display-name lang="en">Sky Atlantic +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/824.png" />
   </channel>
   <channel id="W +1">
     <display-name lang="en">W +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/515.png" />
   </channel>
   <channel id="GOLD +1">
     <display-name lang="en">GOLD +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/519.png" />
   </channel>
   <channel id="Comedy Central +1">
     <display-name lang="en">Comedy Central +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/409.png" />
   </channel>
   <channel id="Syfy +1">
     <display-name lang="en">Syfy +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/411.png" />
   </channel>
   <channel id="ITV3+1">
     <display-name lang="en">ITV3+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/474.png" />
   </channel>
   <channel id="Sky Crime+1">
     <display-name lang="en">Sky Crime+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/547.png" />
   </channel>
   <channel id="Discovery Channel +1">
     <display-name lang="en">Discovery Channel +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/846.png" />
   </channel>
   <channel id="5STAR +1">
     <display-name lang="en">5STAR +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/901.png" />
   </channel>
   <channel id="National Geographic Channel +1">
     <display-name lang="en">National Geographic Channel +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/844.png" />
   </channel>
   <channel id="Alibi +1">
     <display-name lang="en">Alibi +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/521.png" />
   </channel>
   <channel id="TLC+1">
     <display-name lang="en">TLC+1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/864.png" />
   </channel>
   <channel id="5USA +1">
     <display-name lang="en">5USA +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/572.png" />
   </channel>
   <channel id="CBS Reality +1">
     <display-name lang="en">CBS Reality +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/424.png" />
   </channel>
   <channel id="Investigation Discovery +1">
     <display-name lang="en">Investigation Discovery +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/870.png" />
   </channel>
   <channel id="Crime + Investigation +1">
     <display-name lang="en">Crime + Investigation +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/575.png" />
   </channel>
   <channel id="HGTV +1">
     <display-name lang="en">HGTV +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/358.png" />
   </channel>
   <channel id="Discovery Turbo +1">
     <display-name lang="en">Discovery Turbo +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1179.png" />
   </channel>
   <channel id="Animal Planet +1">
     <display-name lang="en">Animal Planet +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/59.png" />
   </channel>
   <channel id="Eden +1">
     <display-name lang="en">Eden +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/355.png" />
   </channel>
   <channel id="Discovery Science +1">
     <display-name lang="en">Discovery Science +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/634.png" />
   </channel>
   <channel id="Discovery History +1">
     <display-name lang="en">Discovery History +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/618.png" />
   </channel>
   <channel id="DMAX +1">
     <display-name lang="en">DMAX +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/616.png" />
   </channel>
   <channel id="Sky Cinema Premiere">
     <display-name lang="en">Sky Cinema Premiere</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/248.png" />
   </channel>
   <channel id="Sky Cinema Comedy">
     <display-name lang="en">Sky Cinema Comedy</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/250.png" />
   </channel>
   <channel id="Sky Cinema Thriller">
     <display-name lang="en">Sky Cinema Thriller</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/614.png" />
   </channel>
   <channel id="Sky Cinema Premiere +1">
     <display-name lang="en">Sky Cinema Premiere +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/249.png" />
   </channel>
   <channel id="TCM Movies">
     <display-name lang="en">TCM Movies</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/661.png" />
   </channel>
   <channel id="TCM Movies +1">
     <display-name lang="en">TCM Movies +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/447.png" />
   </channel>
   <channel id="Horror Channel +1">
     <display-name lang="en">Horror Channel +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/504.png" />
   </channel>
   <channel id="GREAT! movies action +1">
     <display-name lang="en">GREAT! movies action +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/621.png" />
   </channel>
   <channel id="MTV Music">
     <display-name lang="en">MTV Music</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/702.png" />
   </channel>
   <channel id="MTV Hits">
     <display-name lang="en">MTV Hits</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/190.png" />
   </channel>
   <channel id="MTV Base">
     <display-name lang="en">MTV Base</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/188.png" />
   </channel>
   <channel id="Box Hits">
     <display-name lang="en">Box Hits</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/267.png" />
   </channel>
   <channel id="The Box">
     <display-name lang="en">The Box</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/279.png" />
   </channel>
   <channel id="Kiss TV">
     <display-name lang="en">Kiss TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/182.png" />
   </channel>
   <channel id="Magic">
     <display-name lang="en">Magic</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/185.png" />
   </channel>
   <channel id="Kerrang! TV">
     <display-name lang="en">Kerrang! TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/181.png" />
   </channel>
   <channel id="Trace Hits">
     <display-name lang="en">Trace Hits</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/123.png" />
   </channel>
   <channel id="Trace Vault">
     <display-name lang="en">Trace Vault</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1273.png" />
   </channel>
   <channel id="Clubland TV">
     <display-name lang="en">Clubland TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1269.png" />
   </channel>
   <channel id="Spotlight TV">
     <display-name lang="en">Spotlight TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1206.png" />
   </channel>
   <channel id="Sky Sports Main Event HD">
     <display-name lang="en">Sky Sports Main Event HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1105.png" />
   </channel>
   <channel id="dummy001">
     <display-name lang="en">dummy001</display-name>
   </channel>
   <channel id="Sky Sports Premier League HD">
     <display-name lang="en">Sky Sports Premier League HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1111.png" />
   </channel>
   <channel id="Sky Sports Football HD">
     <display-name lang="en">Sky Sports Football HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1103.png" />
   </channel>
   <channel id="Sky Sports Cricket">
     <display-name lang="en">Sky Sports Cricket</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1098.png" />
   </channel>
   <channel id="Sky Sports F1 HD">
     <display-name lang="en">Sky Sports F1 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1101.png" />
   </channel>
   <channel id="Sky Sports News HD">
     <display-name lang="en">Sky Sports News HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1109.png" />
   </channel>
   <channel id="Eurosport 1 HD">
     <display-name lang="en">Eurosport 1 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/502.png" />
   </channel>
   <channel id="Eurosport 2 HD">
     <display-name lang="en">Eurosport 2 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/758.png" />
   </channel>
   <channel id="Premier Sports 1 HD">
     <display-name lang="en">Premier Sports 1 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/715.png" />
   </channel>
   <channel id="BT Sport 1HD">
     <display-name lang="en">BT Sport 1HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/876.png" />
   </channel>
   <channel id="BT Sport 2 HD">
     <display-name lang="en">BT Sport 2 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/880.png" />
   </channel>
   <channel id="Sky Sports Racing HD">
     <display-name lang="en">Sky Sports Racing HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1321.png" />
   </channel>
   <channel id="BT Sport 3 HD">
     <display-name lang="en">BT Sport 3 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/968.png" />
   </channel>
   <channel id="MUTV">
     <display-name lang="en">MUTV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/204.png" />
   </channel>
   <channel id="Premier Sports 2">
     <display-name lang="en">Premier Sports 2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1229.png" />
   </channel>
   <channel id="BT Sport//ESPN HD">
     <display-name lang="en">BT Sport//ESPN HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/579.png" />
   </channel>
   <channel id="LFC TV">
     <display-name lang="en">LFC TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/706.png" />
   </channel>
   <channel id="Racing TV HD">
     <display-name lang="en">Racing TV HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1232.png" />
   </channel>
   <channel id="La Liga TV HD">
     <display-name lang="en">La Liga TV HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1295.png" />
   </channel>
   <channel id="BoxNation">
     <display-name lang="en">BoxNation</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1032.png" />
   </channel>
   <channel id="GINX eSports TV">
     <display-name lang="en">GINX eSports TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1190.png" />
   </channel>
   <channel id="BT Sport Box Office">
     <display-name lang="en">BT Sport Box Office</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1282.png" />
   </channel>
   <channel id="Sky Sports Box Office">
     <display-name lang="en">Sky Sports Box Office</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1283.png" />
   </channel>
   <channel id="Sky Sports Box Office HD">
     <display-name lang="en">Sky Sports Box Office HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1284.png" />
   </channel>
   <channel id="BT Sport Box Office 2">
     <display-name lang="en">BT Sport Box Office 2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1287.png" />
   </channel>
   <channel id="Sky News HD">
     <display-name lang="en">Sky News HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/649.png" />
   </channel>
   <channel id="Bloomberg">
     <display-name lang="en">Bloomberg</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/112.png" />
   </channel>
   <channel id="CNBC HD">
     <display-name lang="en">CNBC HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1175.png" />
   </channel>
   <channel id="CNN HD">
     <display-name lang="en">CNN HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1176.png" />
   </channel>
   <channel id="NHK World">
     <display-name lang="en">NHK World</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/610.png" />
   </channel>
   <channel id="EuroNews">
     <display-name lang="en">EuroNews</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/140.png" />
   </channel>
   <channel id="NDTV 24x7">
     <display-name lang="en">NDTV 24x7</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1217.png" />
   </channel>
   <channel id="France 24 HD">
     <display-name lang="en">France 24 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1183.png" />
   </channel>
   <channel id="Al Jazeera English">
     <display-name lang="en">Al Jazeera English</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/444.png" />
   </channel>
   <channel id="TVC News">
     <display-name lang="en">TVC News</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1004.png" />
   </channel>
   <channel id="TRT World HD">
     <display-name lang="en">TRT World HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1254.png" />
   </channel>
   <channel id="Channels 24">
     <display-name lang="en">Channels 24</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1173.png" />
   </channel>
   <channel id="RTE News">
     <display-name lang="en">RTE News</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/717.png" />
   </channel>
   <channel id="Arirang HD">
     <display-name lang="en">Arirang HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1127.png" />
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="en">Cartoon Network</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/116.png" />
   </channel>
   <channel id="Cartoon Network +1">
     <display-name lang="en">Cartoon Network +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/457.png" />
   </channel>
   <channel id="Nickelodeon">
     <display-name lang="en">Nickelodeon</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/209.png" />
   </channel>
   <channel id="Nickelodeon +1">
     <display-name lang="en">Nickelodeon +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/625.png" />
   </channel>
   <channel id="Nicktoons">
     <display-name lang="en">Nicktoons</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/212.png" />
   </channel>
   <channel id="Nick Jr.">
     <display-name lang="en">Nick Jr.</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/211.png" />
   </channel>
   <channel id="Tiny Pop">
     <display-name lang="en">Tiny Pop</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/477.png" />
   </channel>
   <channel id="Boomerang +1">
     <display-name lang="en">Boomerang +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/389.png" />
   </channel>
   <channel id="Cartoonito">
     <display-name lang="en">Cartoonito</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/391.png" />
   </channel>
   <channel id="Baby TV">
     <display-name lang="en">Baby TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/836.png" />
   </channel>
   <channel id="Tiny Pop +1">
     <display-name lang="en">Tiny Pop +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/619.png" />
   </channel>
   <channel id="Pop +1">
     <display-name lang="en">Pop +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/906.png" />
   </channel>
   <channel id="Pop Max">
     <display-name lang="en">Pop Max</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/602.png" />
   </channel>
   <channel id="Pop Max +1">
     <display-name lang="en">Pop Max +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1117.png" />
   </channel>
   <channel id="Nick Jr. +1">
     <display-name lang="en">Nick Jr. +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/826.png" />
   </channel>
   <channel id="Cartoon Network HD">
     <display-name lang="en">Cartoon Network HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/724.png" />
   </channel>
   <channel id="Boomerang HD">
     <display-name lang="en">Boomerang HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1267.png" />
   </channel>
   <channel id="Nickelodeon HD">
     <display-name lang="en">Nickelodeon HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/681.png" />
   </channel>
   <channel id="Nick Jr HD">
     <display-name lang="en">Nick Jr HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1221.png" />
   </channel>
   <channel id="Ideal World">
     <display-name lang="en">Ideal World</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/757.png" />
   </channel>
   <channel id="B4U Movies">
     <display-name lang="en">B4U Movies</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1265.png" />
   </channel>
   <channel id="B4U Music">
     <display-name lang="en">B4U Music</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1115.png" />
   </channel>
   <channel id="Sony Entertainment TV Asia">
     <display-name lang="en">Sony Entertainment TV Asia</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/710.png" />
   </channel>
   <channel id="Utsav Bharat">
     <display-name lang="en">Utsav Bharat</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/874.png" />
   </channel>
   <channel id="Utsav Plus">
     <display-name lang="en">Utsav Plus</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/346.png" />
   </channel>
   <channel id="Zee Cinema">
     <display-name lang="en">Zee Cinema</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1275.png" />
   </channel>
   <channel id="Utsav Gold">
     <display-name lang="en">Utsav Gold</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/435.png" />
   </channel>
   <channel id="Sony SAB">
     <display-name lang="en">Sony SAB</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/344.png" />
   </channel>
   <channel id="Sony MAX HD">
     <display-name lang="en">Sony MAX HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1246.png" />
   </channel>
   <channel id="Colors Rishtey">
     <display-name lang="en">Colors Rishtey</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/868.png" />
   </channel>
   <channel id="New Vision">
     <display-name lang="en">New Vision</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1218.png" />
   </channel>
   <channel id="GEO TV">
     <display-name lang="en">GEO TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1189.png" />
   </channel>
   <channel id="Sanskar">
     <display-name lang="en">Sanskar</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1239.png" />
   </channel>
   <channel id="Iran International">
     <display-name lang="en">Iran International</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1196.png" />
   </channel>
   <channel id="Sky Witness">
     <display-name lang="en">Sky Witness</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/183.png" />
   </channel>
   <channel id="W HD">
     <display-name lang="en">W HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/726.png" />
   </channel>
   <channel id="GOLD HD">
     <display-name lang="en">GOLD HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1191.png" />
   </channel>
   <channel id="Dave HD">
     <display-name lang="en">Dave HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/727.png" />
   </channel>
   <channel id="Sky Comedy">
     <display-name lang="en">Sky Comedy</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1318.png" />
   </channel>
   <channel id="Sky Documentaries HD">
     <display-name lang="en">Sky Documentaries HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1370.png" />
   </channel>
   <channel id="Sky Crime">
     <display-name lang="en">Sky Crime</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/403.png" />
   </channel>
   <channel id="Discovery Channel HD">
     <display-name lang="en">Discovery Channel HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/395.png" />
   </channel>
   <channel id="Sky Nature">
     <display-name lang="en">Sky Nature</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1371.png" />
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="en">Discovery Channel</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/127.png" />
   </channel>
   <channel id="MTV">
     <display-name lang="en">MTV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/187.png" />
   </channel>
   <channel id="National Geographic Channel HD">
     <display-name lang="en">National Geographic Channel HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/408.png" />
   </channel>
   <channel id="Alibi">
     <display-name lang="en">Alibi</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/520.png" />
   </channel>
   <channel id="Alibi HD">
     <display-name lang="en">Alibi HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/755.png" />
   </channel>
   <channel id="TLC">
     <display-name lang="en">TLC</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/865.png" />
   </channel>
   <channel id="S4C HD">
     <display-name lang="en">S4C HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1238.png" />
   </channel>
   <channel id="E4 HD">
     <display-name lang="en">E4 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/609.png" />
   </channel>
   <channel id="E!">
     <display-name lang="en">E!</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/138.png" />
   </channel>
   <channel id="Crime + Investigation">
     <display-name lang="en">Crime + Investigation</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/394.png" />
   </channel>
   <channel id="TG4">
     <display-name lang="en">TG4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/349.png" />
   </channel>
   <channel id="National Geographic WILD">
     <display-name lang="en">National Geographic WILD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/407.png" />
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="en">Animal Planet HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/735.png" />
   </channel>
   <channel id="Sky Cinema Premiere HD">
     <display-name lang="en">Sky Cinema Premiere HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/489.png" />
   </channel>
   <channel id="Sky Cinema Comedy HD">
     <display-name lang="en">Sky Cinema Comedy HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/522.png" />
   </channel>
   <channel id="TCM Movies HD">
     <display-name lang="en">TCM Movies HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/820.png" />
   </channel>
   <channel id="Sky Sports Main Event">
     <display-name lang="en">Sky Sports Main Event</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1104.png" />
   </channel>
   <channel id="Sky Sports Premier League">
     <display-name lang="en">Sky Sports Premier League</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1110.png" />
   </channel>
   <channel id="Sky Sports Football">
     <display-name lang="en">Sky Sports Football</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1102.png" />
   </channel>
   <channel id="Sky Sports The Hundred HD">
     <display-name lang="en">Sky Sports The Hundred HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1099.png" />
   </channel>
   <channel id="Sky Sports F1">
     <display-name lang="en">Sky Sports F1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1100.png" />
   </channel>
   <channel id="Sky Sports News">
     <display-name lang="en">Sky Sports News</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1108.png" />
   </channel>
   <channel id="Eurosport 1">
     <display-name lang="en">Eurosport 1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/142.png" />
   </channel>
   <channel id="Eurosport 2">
     <display-name lang="en">Eurosport 2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/400.png" />
   </channel>
   <channel id="BT Sport 1">
     <display-name lang="en">BT Sport 1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/875.png" />
   </channel>
   <channel id="BT Sport 2">
     <display-name lang="en">BT Sport 2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/877.png" />
   </channel>
   <channel id="BT Sport 3">
     <display-name lang="en">BT Sport 3</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/967.png" />
   </channel>
   <channel id="MUTV HD">
     <display-name lang="en">MUTV HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/920.png" />
   </channel>
   <channel id="BT Sport//ESPN">
     <display-name lang="en">BT Sport//ESPN</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/578.png" />
   </channel>
   <channel id="Racing TV">
     <display-name lang="en">Racing TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/446.png" />
   </channel>
   <channel id="CNN">
     <display-name lang="en">CNN</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/126.png" />
   </channel>
   <channel id="TRT World">
     <display-name lang="en">TRT World</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1253.png" />
   </channel>
   <channel id="Sony Entertainment TV Asia HD">
     <display-name lang="en">Sony Entertainment TV Asia HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1245.png" />
   </channel>
   <channel id="Utsav Plus HD">
     <display-name lang="en">Utsav Plus HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/821.png" />
   </channel>
   <channel id="Colors">
     <display-name lang="en">Colors</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/881.png" />
   </channel>
   <channel id="Colors HD">
     <display-name lang="en">Colors HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1178.png" />
   </channel>
   <channel id="Zee TV HD">
     <display-name lang="en">Zee TV HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1262.png" />
   </channel>
   <channel id="Sony MAX">
     <display-name lang="en">Sony MAX</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1011.png" />
   </channel>
   <channel id="Utsav Gold HD">
     <display-name lang="en">Utsav Gold HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1247.png" />
   </channel>
   <channel id="Sky Sports Racing">
     <display-name lang="en">Sky Sports Racing</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/63.png" />
   </channel>
   <channel id="CNBC UK">
     <display-name lang="en">CNBC UK</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/590.png" />
   </channel>
   <channel id="Syfy">
     <display-name lang="en">Syfy</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/238.png" />
   </channel>
   <channel id="Sky Sports Mix">
     <display-name lang="en">Sky Sports Mix</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1106.png" />
   </channel>
   <channel id="BBC One Scotland HD">
     <display-name lang="en">BBC One Scotland HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/855.png" />
   </channel>
   <channel id="BBC One Wales HD">
     <display-name lang="en">BBC One Wales HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/856.png" />
   </channel>
   <channel id="BBC One Northern Ireland HD">
     <display-name lang="en">BBC One Northern Ireland HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/833.png" />
   </channel>
   <channel id="BBC One North East &amp; Cumbria">
     <display-name lang="en">BBC One North East &amp; Cumbria</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/76.png" />
   </channel>
   <channel id="BBC One Yorkshire">
     <display-name lang="en">BBC One Yorkshire</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/78.png" />
   </channel>
   <channel id="BBC One Yorkshire &amp; Lincolnshire">
     <display-name lang="en">BBC One Yorkshire &amp; Lincolnshire</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/732.png" />
   </channel>
   <channel id="BBC One North West">
     <display-name lang="en">BBC One North West</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/77.png" />
   </channel>
   <channel id="BBC One West Midlands">
     <display-name lang="en">BBC One West Midlands</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/75.png" />
   </channel>
   <channel id="BBC One East Midlands">
     <display-name lang="en">BBC One East Midlands</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/72.png" />
   </channel>
   <channel id="BBC One East">
     <display-name lang="en">BBC One East</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/73.png" />
   </channel>
   <channel id="BBC One Cambridgeshire">
     <display-name lang="en">BBC One Cambridgeshire</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/733.png" />
   </channel>
   <channel id="BBC One South East">
     <display-name lang="en">BBC One South East</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/83.png" />
   </channel>
   <channel id="BBC One South">
     <display-name lang="en">BBC One South</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/85.png" />
   </channel>
   <channel id="BBC One Oxfordshire">
     <display-name lang="en">BBC One Oxfordshire</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/731.png" />
   </channel>
   <channel id="BBC One West">
     <display-name lang="en">BBC One West</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/88.png" />
   </channel>
   <channel id="BBC One South West">
     <display-name lang="en">BBC One South West</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/84.png" />
   </channel>
   <channel id="BBC One Channel Islands">
     <display-name lang="en">BBC One Channel Islands</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/734.png" />
   </channel>
   <channel id="BBC Two Wales">
     <display-name lang="en">BBC Two Wales</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/106.png" />
   </channel>
   <channel id="BBC Two Northern Ireland">
     <display-name lang="en">BBC Two Northern Ireland</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/99.png" />
   </channel>
   <channel id="BBC One Scotland">
     <display-name lang="en">BBC One Scotland</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/82.png" />
   </channel>
   <channel id="BBC One Wales">
     <display-name lang="en">BBC One Wales</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/87.png" />
   </channel>
   <channel id="BBC One Northern Ireland">
     <display-name lang="en">BBC One Northern Ireland</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/80.png" />
   </channel>
   <channel id="5Action HD">
     <display-name lang="en">5Action HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1298.png" />
   </channel>
   <channel id="ITV2HD">
     <display-name lang="en">ITV2HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/671.png" />
   </channel>
   <channel id="ITV3HD">
     <display-name lang="en">ITV3HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/690.png" />
   </channel>
   <channel id="ITV4HD">
     <display-name lang="en">ITV4HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/691.png" />
   </channel>
   <channel id="ITVBe HD">
     <display-name lang="en">ITVBe HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/958.png" />
   </channel>
   <channel id="Comedy Central HD">
     <display-name lang="en">Comedy Central HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/664.png" />
   </channel>
   <channel id="Eden HD">
     <display-name lang="en">Eden HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/670.png" />
   </channel>
   <channel id="MTV Live HD">
     <display-name lang="en">MTV Live HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1296.png" />
   </channel>
   <channel id="BT Sport Ultimate">
     <display-name lang="en">BT Sport Ultimate</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1158.png" />
   </channel>
   <channel id="FreeSports HD">
     <display-name lang="en">FreeSports HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1185.png" />
   </channel>
   <channel id="Bloomberg HD">
     <display-name lang="en">Bloomberg HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1156.png" />
   </channel>
   <channel id="NHK World HD">
     <display-name lang="en">NHK World HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1270.png" />
   </channel>
   <channel id="Boomerang">
     <display-name lang="en">Boomerang</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/113.png" />
   </channel>
   <channel id="Food Network +1">
     <display-name lang="en">Food Network +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/595.png" />
   </channel>
   <channel id="Thats TV">
     <display-name lang="en">Thats TV</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1588.png" />
   </channel>
   <channel id="BBC Two Wales HD">
     <display-name lang="en">BBC Two Wales HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1150.png" />
   </channel>
   <channel id="PBS America +1">
     <display-name lang="en">PBS America +1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1299.png" />
   </channel>
   <channel id="Sky History HD">
     <display-name lang="en">Sky History HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1380.png" />
   </channel>
   <channel id="BT Sport X1">
     <display-name lang="en">BT Sport X1</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1159.png" />
   </channel>
   <channel id="BT Sport X2">
     <display-name lang="en">BT Sport X2</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1161.png" />
   </channel>
   <channel id="BT Sport X3">
     <display-name lang="en">BT Sport X3</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1163.png" />
   </channel>
   <channel id="BT Sport X4">
     <display-name lang="en">BT Sport X4</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1165.png" />
   </channel>
   <channel id="BT Sport X5">
     <display-name lang="en">BT Sport X5</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1167.png" />
   </channel>
   <channel id="BT Sport X6">
     <display-name lang="en">BT Sport X6</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1169.png" />
   </channel>
   <channel id="BT Sport X1 HD">
     <display-name lang="en">BT Sport X1 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1160.png" />
   </channel>
   <channel id="BT Sport X2 HD">
     <display-name lang="en">BT Sport X2 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1162.png" />
   </channel>
   <channel id="BT Sport X3 HD">
     <display-name lang="en">BT Sport X3 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1164.png" />
   </channel>
   <channel id="BT Sport X4 HD">
     <display-name lang="en">BT Sport X4 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1166.png" />
   </channel>
   <channel id="BT Sport X5 HD">
     <display-name lang="en">BT Sport X5 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1168.png" />
   </channel>
   <channel id="BT Sport X6 HD">
     <display-name lang="en">BT Sport X6 HD</display-name>
-    <icon src="https://cdn.tvguide.co.uk/channel_logos/60x35/1170.png" />
   </channel>
   <channel id="dummy001">
     <display-name lang="en">dummy001</display-name>
