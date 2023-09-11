@@ -39715,117 +39715,61 @@
     <icon src="https://tv.assets.pressassociation.io/e84fbfe4-57e3-5cb5-a3aa-5cade33768f2.jpg" />
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20230911053000 +0000" stop="20230911060000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Asia Cup Cricket</title>
-    <desc lang="en">Pakistan v India.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/e84fbfe4-57e3-5cb5-a3aa-5cade33768f2.jpg" />
-    <episode-num system="onscreen">E9</episode-num>
-  </programme>
-  <programme start="20230911060000 +0000" stop="20230911070000 +0000" channel="Sky London TNT Sports 1 HD">
+  <programme start="20230911053000 +0000" stop="20230911063000 +0000" channel="Sky London TNT Sports 1 HD">
     <title lang="en">WWE NXT Highlights</title>
     <desc lang="en">Wrestling action.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/2321a7af-5536-5b74-be13-dc0257d639ed.jpg" />
     <episode-num system="onscreen">E36</episode-num>
   </programme>
-  <programme start="20230911070000 +0000" stop="20230911083000 +0000" channel="Sky London TNT Sports 1 HD">
+  <programme start="20230911063000 +0000" stop="20230911080000 +0000" channel="Sky London TNT Sports 1 HD">
     <title lang="en">Vanarama National League</title>
     <desc lang="en">Bromley v Maidenhead United.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/130f5eb3-7af0-5bd1-bf33-c088507bbb39.jpg" />
     <episode-num system="onscreen">E7</episode-num>
   </programme>
-  <programme start="20230911083000 +0000" stop="20230911090000 +0000" channel="Sky London TNT Sports 1 HD">
+  <programme start="20230911080000 +0000" stop="20230911083000 +0000" channel="Sky London TNT Sports 1 HD">
     <title lang="en">Vanarama National League Highlights</title>
     <desc lang="en">The best of the latest action from the Vanarama National League.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/da9f9db6-d468-5322-a3b9-02e18a20e69a.jpg" />
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme start="20230911090000 +0000" stop="20230911093000 +0000" channel="Sky London TNT Sports 1 HD">
+  <programme start="20230911083000 +0000" stop="20230911090000 +0000" channel="Sky London TNT Sports 1 HD">
     <title lang="en">Premier League Stories</title>
     <desc lang="en">A look at what the future holds for Burnley.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/94c52413-c481-5313-8bfb-5c42cc150f85.jpg" />
     <episode-num system="onscreen">E6</episode-num>
   </programme>
-  <programme start="20230911093000 +0000" stop="20230911100000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from Europe's premier competition.</desc>
+  <programme start="20230911090000 +0000" stop="20230911091500 +0000" channel="Sky London TNT Sports 1 HD">
+    <title lang="en">Deaf Away Days</title>
+    <desc lang="en">Marios and Memnos Costi attend the UCI Track Champions League Final.</desc>
     <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/f1e53c80-f59d-54ce-8deb-902948b4b43d.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20230911100000 +0000" stop="20230911120000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">The FA Futsal Women's Super Series</title>
-    <desc lang="en">Action from the latest fixtures.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/700cbd83-121a-5c49-8dc8-4bc4aecfcd4a.jpg" />
-    <episode-num system="onscreen">E5</episode-num>
-  </programme>
-  <programme start="20230911120000 +0000" stop="20230911140000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Badminton</title>
-    <desc lang="en">Action from the China Open finals.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/ea005d5c-c13b-528e-9ab4-402efd8c9a1f.jpg" />
-    <episode-num system="onscreen">E98</episode-num>
-  </programme>
-  <programme start="20230911140000 +0000" stop="20230911143000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">UEFA Champions League Magazine</title>
-    <desc lang="en">The latest news and updates from Europe's premier competition.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20230911143000 +0000" stop="20230911150000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Asia Cup Cricket</title>
-    <desc lang="en">Sri Lanka v Bangladesh.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/e84fbfe4-57e3-5cb5-a3aa-5cade33768f2.jpg" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20230911150000 +0000" stop="20230911153000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Asia Cup Cricket</title>
+  <programme start="20230911091500 +0000" stop="20230911180000 +0000" channel="Sky London TNT Sports 1 HD">
+    <title lang="en">Live: Asia Cup Cricket</title>
     <desc lang="en">Pakistan v India.</desc>
     <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/e84fbfe4-57e3-5cb5-a3aa-5cade33768f2.jpg" />
+    <icon src="https://tv.assets.pressassociation.io/c852df2e-3083-5361-8af4-f06208c96755.jpg" />
     <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme start="20230911153000 +0000" stop="20230911160000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">CPL</title>
-    <desc lang="en">Barbados Royals v Guyana Amazon Warriors.</desc>
+  <programme start="20230911180000 +0000" stop="20230911190000 +0000" channel="Sky London TNT Sports 1 HD">
+    <title lang="en">WRC Review</title>
+    <desc lang="en">A look back at the latest action from the World Rally Championship in Greece.</desc>
     <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/8137f89b-61c1-5466-8cd7-820e7ea00cc1.jpg" />
-    <episode-num system="onscreen">E23</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/8c267d35-c7ea-583a-bc4d-19c2903919d8.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
-  <programme start="20230911160000 +0000" stop="20230911163000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">CPL</title>
-    <desc lang="en">Trinbago Knight Riders v Saint Lucia Kings.</desc>
+  <programme start="20230911190000 +0000" stop="20230911210000 +0000" channel="Sky London TNT Sports 1 HD">
+    <title lang="en">The FA Futsal Series One</title>
+    <desc lang="en">Action from the latest fixtures.</desc>
     <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/8137f89b-61c1-5466-8cd7-820e7ea00cc1.jpg" />
-    <episode-num system="onscreen">E24</episode-num>
-  </programme>
-  <programme start="20230911163000 +0000" stop="20230911170000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Women's CPL</title>
-    <desc lang="en">Action from the final of the Women's Caribbean Premier League.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/10e8c299-85e0-53a9-af55-3b51d12a41a5.jpg" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme start="20230911170000 +0000" stop="20230911203000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">Live MLB</title>
-    <desc lang="en">Philadelphia Phillies v Atlanta Braves (Start-time 6.05pm).</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/dc88f25a-d33c-5601-93a1-74aa710d74be.jpg" />
-    <episode-num system="onscreen">E297</episode-num>
-  </programme>
-  <programme start="20230911203000 +0000" stop="20230911210000 +0000" channel="Sky London TNT Sports 1 HD">
-    <title lang="en">MLB Plays of the Week</title>
-    <desc lang="en">The most exciting plays from the past week's matches.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/1a2f92fc-4600-5238-82b6-fbd222f630e5.jpg" />
-    <episode-num system="onscreen">E22</episode-num>
+    <icon src="https://tv.assets.pressassociation.io/c67760e3-b2cd-54d9-8b5c-cd33a9375a32.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20230911210000 +0000" stop="20230911213000 +0000" channel="Sky London TNT Sports 1 HD">
     <title lang="en">Fight Week</title>
@@ -40314,68 +40258,68 @@
     <icon src="https://tv.assets.pressassociation.io/6c06ad82-85cf-5658-a9e3-a0eab9e1e604.jpg" />
     <episode-num system="onscreen">E1</episode-num>
   </programme>
-  <programme start="20230911110000 +0000" stop="20230911120000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">The best goals of the 2003/04 season.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/2f1dbcaa-f84f-5a44-9e15-9a118d068f0b.jpg" />
-    <episode-num system="onscreen">E73</episode-num>
-  </programme>
-  <programme start="20230911120000 +0000" stop="20230911130000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">The best goals of the 2004/05 season.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/05b7578f-13ec-5633-90cc-9017dd021d30.jpg" />
-    <episode-num system="onscreen">E74</episode-num>
-  </programme>
-  <programme start="20230911130000 +0000" stop="20230911140000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">The best goals of the 2005/06 season.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/a595cf7d-ad06-55ec-a131-ff95720b396a.jpg" />
-    <episode-num system="onscreen">E75</episode-num>
-  </programme>
-  <programme start="20230911140000 +0000" stop="20230911150000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">Classic Premier League</title>
-    <desc lang="en">The best goals of the 2006/07 season.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/442be8d3-45ec-5f0d-9d14-51532f49c3d1.jpg" />
-    <episode-num system="onscreen">E76</episode-num>
-  </programme>
-  <programme start="20230911150000 +0000" stop="20230911160000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">U20 Intercontinental Cup</title>
-    <desc lang="en">Boca Juniors U20 v AZ Alkmaar U20.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/f5981a73-5ac6-5434-a6e6-7f7e3d0d2fef.jpg" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme start="20230911160000 +0000" stop="20230911180000 +0000" channel="Sky London TNT Sports 2 HD">
+  <programme start="20230911110000 +0000" stop="20230911130000 +0000" channel="Sky London TNT Sports 2 HD">
     <title lang="en">The FA Futsal Women's Super Series</title>
     <desc lang="en">Action from the latest fixtures.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/700cbd83-121a-5c49-8dc8-4bc4aecfcd4a.jpg" />
     <episode-num system="onscreen">E5</episode-num>
   </programme>
-  <programme start="20230911180000 +0000" stop="20230911190000 +0000" channel="Sky London TNT Sports 2 HD">
+  <programme start="20230911130000 +0000" stop="20230911150000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">Badminton</title>
+    <desc lang="en">Action from the China Open finals.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/ea005d5c-c13b-528e-9ab4-402efd8c9a1f.jpg" />
+    <episode-num system="onscreen">E98</episode-num>
+  </programme>
+  <programme start="20230911150000 +0000" stop="20230911153000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">UEFA Champions League Magazine</title>
+    <desc lang="en">The latest news and updates from Europe's premier competition.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/a1d83c92-4983-5e77-9520-3ea1d40a34f3.jpg" />
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20230911153000 +0000" stop="20230911160000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">CPL</title>
+    <desc lang="en">Barbados Royals v Guyana Amazon Warriors.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/8137f89b-61c1-5466-8cd7-820e7ea00cc1.jpg" />
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20230911160000 +0000" stop="20230911163000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">CPL</title>
+    <desc lang="en">Trinbago Knight Riders v Saint Lucia Kings.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/8137f89b-61c1-5466-8cd7-820e7ea00cc1.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
+  </programme>
+  <programme start="20230911163000 +0000" stop="20230911170000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">Women's CPL</title>
+    <desc lang="en">Action from the final of the Women's Caribbean Premier League.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/10e8c299-85e0-53a9-af55-3b51d12a41a5.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme start="20230911170000 +0000" stop="20230911203000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">Live MLB</title>
+    <desc lang="en">Philadelphia Phillies v Atlanta Braves (Start-time 6.05pm).</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/dc88f25a-d33c-5601-93a1-74aa710d74be.jpg" />
+    <episode-num system="onscreen">E297</episode-num>
+  </programme>
+  <programme start="20230911203000 +0000" stop="20230911210000 +0000" channel="Sky London TNT Sports 2 HD">
+    <title lang="en">MLB Plays of the Week</title>
+    <desc lang="en">The most exciting plays from the past week's matches.</desc>
+    <category lang="en">Episode</category>
+    <icon src="https://tv.assets.pressassociation.io/1a2f92fc-4600-5238-82b6-fbd222f630e5.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20230911210000 +0000" stop="20230911220000 +0000" channel="Sky London TNT Sports 2 HD">
     <title lang="en">WSL Presents</title>
     <desc lang="en">Surfing action from the Tahiti Pro.</desc>
     <category lang="en">Episode</category>
     <icon src="https://tv.assets.pressassociation.io/9f601644-02fe-5bc8-8c8f-5d10af5df1c2.jpg" />
     <episode-num system="onscreen">E12</episode-num>
-  </programme>
-  <programme start="20230911190000 +0000" stop="20230911200000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">WRC Review</title>
-    <desc lang="en">A look back at the latest action from the World Rally Championship in Greece.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/8c267d35-c7ea-583a-bc4d-19c2903919d8.jpg" />
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20230911200000 +0000" stop="20230911220000 +0000" channel="Sky London TNT Sports 2 HD">
-    <title lang="en">The FA Futsal Series One</title>
-    <desc lang="en">Action from the latest fixtures.</desc>
-    <category lang="en">Episode</category>
-    <icon src="https://tv.assets.pressassociation.io/c67760e3-b2cd-54d9-8b5c-cd33a9375a32.jpg" />
-    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20230911220000 +0000" stop="20230911230000 +0000" channel="Sky London TNT Sports 2 HD">
     <title lang="en">WRC Review</title>
